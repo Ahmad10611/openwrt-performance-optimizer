@@ -26,7 +26,7 @@ A comprehensive performance optimization toolkit for OpenWRT routers that can im
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/openwrt-performance-optimizer.git
+git clone https://github.com/Ahmad10611/openwrt-performance-optimizer.git
 cd openwrt-performance-optimizer
 
 # Make scripts executable
@@ -47,7 +47,7 @@ chmod +x *.sh
 
 ### 1. Download Scripts
 ```bash
-wget -O install.sh https://raw.githubusercontent.com/yourusername/openwrt-performance-optimizer/main/install.sh
+wget -O install.sh https://raw.githubusercontent.com/Ahmad10611/openwrt-performance-optimizer/main/install.sh
 chmod +x install.sh
 ```
 
@@ -225,9 +225,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/openwrt-performance-optimizer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/openwrt-performance-optimizer/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/openwrt-performance-optimizer/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Ahmad10611/openwrt-performance-optimizer/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Ahmad10611/openwrt-performance-optimizer/discussions)
+- **Documentation**: [Wiki](https://github.com/Ahmad10611/openwrt-performance-optimizer/wiki)
 
 ## 🗺️ Roadmap
 
